@@ -1,0 +1,103 @@
+[
+{
+"id": 1,
+"Brand": "BMW",
+"Model": "5.20i",
+"Year" : "2012",
+"Motor": "2.0",
+"Pk" : "250pk",
+"Price" : "40000",
+"image" : "BMW"
+},
+{
+  "id": 2,
+"Brand": "Wolkswagen",
+"Model": "Polo",
+"Year" : "2013",
+"Motor": "1.6TDI",
+"Pk" : "120pk",
+"Price" : "22000",
+"image" : "Wolkswagen"
+},
+{
+  "id": 3,
+"Brand": "Mercedes",
+"Model": "C-Class 200",
+"Year" : "2014",
+"Motor": "2.0",
+"Pk" : "190pk",
+"Price" : "32000",
+"image" : "Mercedes"
+},
+{
+  "id": 4,
+"Brand": "Pegeout",
+"Model": "206+",
+"Year" : "2010",
+"Motor": "1.6",
+"Pk" : "75pk",
+"Price" : "8000",
+"image" : "Pegeout"
+},
+{
+  "id": 5,
+"Brand": "Audi",
+"Model": "A6",
+"Year" : "2012",
+"Motor": "2.0",
+"Pk" : "200pk",
+"Price" : "25000",
+"image" : "Audi"
+},
+{
+  "id": 6,
+"Brand": "Citroën",
+"Model": "C3",
+"Year" : "2014",
+"Motor": "1.4",
+"Pk" : "75pk",
+"Price" : "12000",
+"image" : "Citroën"
+},
+{
+  "id": 7,
+"Brand": "Dacia",
+"Model": "Dokker",
+"Year" : "2014",
+"Motor": "1.4",
+"Pk" : "70Pk",
+"Price" : "10000",
+"image" : "Dacia"
+},
+{
+  "id": 8,
+"Brand": "Fiat",
+"Model": "FFC",
+"Year" : "2013",
+"Motor": "1.2",
+"Pk" : "60Pk",
+"Price" : "7000",
+"image" : "Fiat"
+},
+{
+  "id": 9,
+"Brand": "Honda",
+"Model": "Civic",
+"Year" : "2014",
+"Motor": "1.6",
+"Pk" : "120Pk",
+"Price" : "15000",
+"image" : "Honda"
+},
+{
+  "id": 10,
+"Brand": "Kia",
+"Model": "Picanto",
+"Year" : "2014",
+"Motor": "1.6",
+"Pk" : "100Pk",
+"Price" : "18000",
+"image" : "Kia"
+}
+
+]
